@@ -1,1 +1,1 @@
-# Icon for GitHub organisation
+# Resources for various components
